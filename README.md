@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @carlcidromero
 - 👀 I’m interested in people, music, video games, film, literature, technology.
-- 🌱 I’m currently learning Java and React.
+- 🌱 I’m currently learning Java, Linux (Fedora), and React.
 - 💞️ I’m looking to collaborate on anything! Music would be interesting...
 - 📫 How to reach me: carlcidromero@gmail.com
 
