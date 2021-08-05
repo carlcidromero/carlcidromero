@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @carlcidromero
 - 👀 I’m interested in people, music, video games, film, literature, technology.
-- 🌱 I’m currently learning Hibernate, Java, JavaScript, Linux (Fedora), React, Spring.
-- 💞️ I’m looking to collaborate on anything! Music would be interesting...
+- 🌱 I’m primarily focused on learning React, secondarily on learning AWS, Java and Unix.
+- 💞️ I’m looking to collaborate on anything, preferably something strange.
 - 📫 How to reach me: carlcidromero@gmail.com
 
 <!---
