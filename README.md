@@ -1,6 +1,6 @@
 <h1> Welcome!</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&color=cbc6c0&multiline=true&lines=Hi,+I'm+Carl+(aka+Cid);Location:+Graham+WA+(US))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?center=true&font=JetBrains+Mono&color=cbc6c0&multiline=true&lines=Hi,+I'm+Carl+(aka+Cid);Location:+Graham+WA+(US))](https://git.io/typing-svg)
 
 [![Language Usage](https://github-readme-stats.vercel.app/api/top-langs/?username=carlcidromero&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -10,4 +10,4 @@
     <li>54 degrees fahrenheit</li>
   </ul>
 
-*This README was last refreshed Monday, September 20, 22:08 PDT using [GitHub Actions](https://github.com/features/actions)*
+*This README was last refreshed Monday, September 20, 22:25 PDT using [GitHub Actions](https://github.com/features/actions)*
