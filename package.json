@@ -2,7 +2,7 @@
   "name": "carlcidromero",
   "version": "1.0.0",
   "type": "module",
-  "description": "- 👋 Hi, I’m @carlcidromero - 👀 I’m interested in people, music, video games, film, literature, technology. - 🌱 I’m primarily focused on learning React, secondarily on learning AWS, Java and Unix. - 💞️ I’m looking to collaborate on anything, preferably something strange. - 📫 How to reach me: carlcidromero@gmail.com",
+  "description": "Dynamic, self-updating GitHub README.md",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
