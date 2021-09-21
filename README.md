@@ -1,13 +1,13 @@
 <h1> Welcome!</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?&font=JetBrains+Mono&color=cbc6c0&multiline=true&lines=Hi,+I'm+Carl+(aka+Cid);Location:+Graham+WA+(US))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?&font=JetBrains+Mono&color=cbc6c0&multiline=false&lines=Hi,+I'm+Carl+(aka+Cid))](https://git.io/typing-svg)
 
 [![Language Usage](https://github-readme-stats.vercel.app/api/top-langs/?hide_title=true&layout=compact&username=carlcidromero&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3>Live Weather</h3>
   <ul>
     <li>clear sky</li>
-    <li>54 degrees fahrenheit</li>
+    <li>52 degrees fahrenheit</li>
   </ul>
 
-*This README was last refreshed Monday, September 20, 22:50 PDT using [GitHub Actions](https://github.com/features/actions)*
+*This README was last refreshed Monday, September 20, 22:59 PDT using [GitHub Actions](https://github.com/features/actions)*
