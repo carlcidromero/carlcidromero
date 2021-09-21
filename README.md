@@ -4,8 +4,8 @@
 
 <h3>Live Weather</h3>
   <ul>
-    <li>mist</li>
-    <li>48 degrees fahrenheit</li>
+    <li>clear sky</li>
+    <li>53 degrees fahrenheit</li>
   </ul>
 
-*This README was last refreshed Tuesday, September 21, 08:10 PDT using [GitHub Actions](https://github.com/features/actions)*
+*This README was last refreshed Tuesday, September 21, 09:14 PDT using [GitHub Actions](https://github.com/features/actions)*
