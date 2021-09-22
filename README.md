@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?&font=JetBrains+Mono&color=cbc6c0&multiline=true&lines=A+foo+wakls+into+a+bar...;and+exits+with+code+127)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?&font=JetBrains+Mono&color=cbc6c0&multiline=true&lines=A+foo+wakls+into+a+bar...;exits+with+code+127)](https://git.io/typing-svg)
 
 [![Language Usage](https://github-readme-stats.vercel.app/api/top-langs/?hide_title=true&layout=compact&username=carlcidromero&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -8,4 +8,4 @@
     <li>55 degrees fahrenheit</li>
   </ul>
 
-*This README was last refreshed Wednesday, September 22, 00:09 PDT using [GitHub Actions](https://github.com/features/actions)*
+*This README was last refreshed Wednesday, September 22, 00:24 PDT using [GitHub Actions](https://github.com/features/actions)*
