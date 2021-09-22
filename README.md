@@ -4,8 +4,8 @@
 
 <h3>Live Weather</h3>
   <ul>
-    <li>clear sky</li>
-    <li>55 degrees fahrenheit</li>
+    <li>broken clouds</li>
+    <li>54 degrees fahrenheit</li>
   </ul>
 
-*This README was last refreshed Wednesday, September 22, 00:24 PDT using [GitHub Actions](https://github.com/features/actions)*
+*This README was last refreshed Wednesday, September 22, 01:11 PDT using [GitHub Actions](https://github.com/features/actions)*
