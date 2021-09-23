@@ -4,8 +4,8 @@
 
 <h3>Live Weather</h3>
   <ul>
-    <li>few clouds</li>
-    <li>57 degrees fahrenheit</li>
+    <li>overcast clouds</li>
+    <li>56 degrees fahrenheit</li>
   </ul>
 
-*This README was last refreshed Wednesday, September 22, 22:08 PDT using [GitHub Actions](https://github.com/features/actions)*
+*This README was last refreshed Wednesday, September 22, 23:12 PDT using [GitHub Actions](https://github.com/features/actions)*
