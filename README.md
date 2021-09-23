@@ -4,8 +4,8 @@
 
 <h3>Live Weather</h3>
   <ul>
-    <li>light intensity drizzle</li>
-    <li>61 degrees fahrenheit</li>
+    <li>overcast clouds</li>
+    <li>60 degrees fahrenheit</li>
   </ul>
 
-*This README was last refreshed Wednesday, September 22, 17:34 PDT using [GitHub Actions](https://github.com/features/actions)*
+*This README was last refreshed Wednesday, September 22, 18:59 PDT using [GitHub Actions](https://github.com/features/actions)*
