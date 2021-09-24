@@ -5,7 +5,7 @@
 <h3>Live Weather</h3>
   <ul>
     <li>light intensity drizzle</li>
-    <li>49 degrees fahrenheit</li>
+    <li>50 degrees fahrenheit</li>
   </ul>
 
-*This README was last refreshed Friday, September 24, 06:16 PDT using [GitHub Actions](https://github.com/features/actions)*
+*This README was last refreshed Friday, September 24, 07:08 PDT using [GitHub Actions](https://github.com/features/actions)*
