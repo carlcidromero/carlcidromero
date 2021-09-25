@@ -5,7 +5,7 @@
 <h3>Live Weather</h3>
   <ul>
     <li>clear sky</li>
-    <li>75 degrees fahrenheit</li>
+    <li>73 degrees fahrenheit</li>
   </ul>
 
-*This README was last refreshed Friday, September 24, 16:09 PDT using [GitHub Actions](https://github.com/features/actions)*
+*This README was last refreshed Friday, September 24, 17:32 PDT using [GitHub Actions](https://github.com/features/actions)*
