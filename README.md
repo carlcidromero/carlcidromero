@@ -4,8 +4,8 @@
 
 <h3>Live Weather</h3>
   <ul>
-    <li>clear sky</li>
-    <li>54 degrees fahrenheit</li>
+    <li>light intensity drizzle</li>
+    <li>53 degrees fahrenheit</li>
   </ul>
 
-*This README was last refreshed Saturday, September 25, 01:10 PDT using [GitHub Actions](https://github.com/features/actions)*
+*This README was last refreshed Saturday, September 25, 02:08 PDT using [GitHub Actions](https://github.com/features/actions)*
