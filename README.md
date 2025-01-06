@@ -1,8 +1,8 @@
 # Carl (Cid) Romero
 
 **Hello, World!**
-Thank you for visiting my digital space on the internet.
-Feel free to explore to learn about me and information technology stuff.
+Thank you for visiting my digital space on the internet.<br>
+Feel free to explore to learn about me and information technology stuff.<br>
 If you are short on time or just want to know a bit about me, here is a TLDR:
 
 - Born in Los Angeles, CA, USA.
