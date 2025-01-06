@@ -1,11 +1,16 @@
 # Carl (Cid) Romero
-Cid is a professional software engineer from Seattle, WA. Although trained as a fullstack developer, he specializes in frontend solutions. His passion for the craft runs wide, leading to deep curiosities regarding all things tech, including productivity, work management, project management, programming paradigms, problem-solving patterns, design patterns, web accessibility, and many, many more.
 
-- 🔭 I’m currently working on a "Ghud" collection of educational resources for aspiring and junior level software engineers.
-- 🌱 I’m currently learning the correct take on object-oriented programming: https://www.elegantobjects.org/
-<!-- - 👯 I’m looking to collaborate on -->
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: [email](mailto:carlcidromero@gmail.com)
-<!-- - 😄 Pronouns: ... -->
-- ⚡ Fun fact: You have probably heard my music on some video games, most notably Cybperpunk 2077.
+**Hello, World!**
+Thank you for visiting my digital space on the internet.
+Feel free to explore to learn about me and information technology stuff.
+If you are short on time or just want to know a bit about me, here is a TLDR:
+
+- Born in Los Angeles, CA, USA.
+- Raised in Graham, WA, USA.
+- Reside in Seattle, WA, USA.
+- Graduated from California State University - Sacramento with a Bachelor Of Arts in English Literature.
+- Made music for video games, most notably Cyberpunk 2077 and UFC 2.
+- Distro hop on a Dell Latitude E7440 for fun (mainly Arch btw).
+- Enjoy researching SDLC, theory of constraints, and software design.
+- Technical lead on a team that maintains an enterprise-level JavaScript web component library and Spring/React web application.
+
