@@ -1,7 +1,16 @@
 # Carl (Cid) Romero
 
-**Hello, World!**  
-Welcome to my space.
+I'm a tech lead at a fairly large company with two main responsibilities:
+
+1. Design software solutions with UX, accessibility, and product teams.
+2. Enable and encourage sustainable maintainability practices for engineering teams.
+
+My day-to-day typically consists of the following:
+
+1. Driving discussion and refinement of proposed designs.
+2. Sequencing units of work for timely delivery of software.
+3. Contributing modular, focused, maintainable code to various codebases.
+4. Guiding engineers to align maintainability practices with business goals.
 
 ## TLDR about me
 
@@ -25,4 +34,3 @@ Welcome to my space.
 - 99% of engineers have been taught OOP incorrectly.
 - Most FP enthusiasts are actually OOP enthusiasts who were taught OOP incorrectly.
 - Productive FP is actually just OOP done correctly.
-
