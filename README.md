@@ -15,6 +15,6 @@ My typical day-to-day:
 ## TLDR about me
 
 - Arch BTW.
-- Favorite books: The Phoenix Project, The Goal, Elegant Objects, Remembrance Of Earth's Past.
+- Favorite books: The Phoenix Project, The Goal, Elegant Objects, Atomic Design, Remembrance Of Earth's Past.
 - My English Degree from CSU - Sacramento has been my greatest asset in tech.
 - Made music for video games, most notably Cyberpunk 2077 and UFC 2.
