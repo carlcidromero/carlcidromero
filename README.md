@@ -1,20 +1,34 @@
-# Carl (Cid) Romero
+# Hi, I’m Carl (Cid) Romero 👋
 
-I'm a tech lead in fintech with two main responsibilities:
+**Senior Software Engineer — Tech Lead, Bar-Raiser, Throughput Optimizer**
 
-1. Design software solutions with UX, accessibility, and product teams.
-2. Establish sustainable maintainability practices for engineering teams.
+I help teams deliver **accessible, maintainable, high-quality software — faster.**  
+I specialize in frontend architecture, test-driven development, and building systems that scale across organizations.
 
-My typical day-to-day:
+---
 
-1. Driving discussion and refinement of solution designs.
-2. Defining and sequencing units of work for timely delivery.
-3. Contributing modular, focused, maintainable code to various codebases.
-4. Balancing code maintainability practices with achieving business goals.
+## 🚀 Current Focus
 
-## TLDR about me
+- Building my flagship project: a **minimalist calendar app** with a unique twist.
+- Writing about **interview prep** and **real-world engineering challenges**.
+- Studying **application security (Security+)** to deepen my ability to lead secure-by-design teams.
 
-- Arch BTW.
-- Favorite books: The Phoenix Project, The Goal, Elegant Objects, Atomic Design, Remembrance Of Earth's Past.
-- My English Degree from CSU - Sacramento has been my greatest asset in tech.
-- Made music for video games, most notably Cyberpunk 2077 and UFC 2.
+---
+
+## 🛠️ Highlights
+
+- **Co-founded** and maintain an inner-source **UI library** adopted by dozens of teams → reduced dev time and enforced consistent UX/accessibility standards.
+- **Led** frontend architecture for an internal **microservices + microfrontend system (Spring Boot / React)** → enabled new 100% digital workflow for thousands of users with maintainable, testable code as the standard.
+- **Championed** clean code and test-driven practices through content creation and **town hall tech talks** → raised quality standards and drove adoption of the UI library across the org.
+
+---
+
+### ✍️ Read My Writing
+
+- [Blog](https://carlcidromero.github.io)
+- [LinkedIn](https://linkedin.com/in/carlcidromero)
+- [Bluesky](https://bsky.app/profile/carlcidromero.bsky.social)
+
+---
+
+⚡ _"Accessible, user-first software that teams can maintain at scale."_
