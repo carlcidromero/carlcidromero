@@ -1,26 +1,27 @@
-# Hi, I’m Carl (Cid) Romero 👋
+# Cid Romero
 
-**Senior Software Engineer — Tech Lead, Bar-Raiser, Throughput Optimizer**
+Full-stack engineer. Previously: music production coordinator for Cyberpunk 2077, UFC 2, and other large projects where the deliverable was thousands of audio files and the timeline was a joke.
 
-I help teams deliver **accessible, maintainable, high-quality software — faster.**  
-I specialize in frontend architecture, test-driven development, and building systems that scale across organizations.
+That background turns out to be decent training for software systems.
 
-## 🚀 Current Focus
+---
 
-- Building my flagship project, **[Tandm](https://github.com/ghud-org/)**: a **minimalist calendar app** with a unique twist.
-- Writing about **interview prep** and **real-world engineering challenges**.
-- Studying **application security (Security+)** to deepen my ability to lead secure-by-design teams.
+**What I build**
 
-## 🛠️ Highlights
+- AI-powered developer tooling (onboarding systems, internal knowledge graphs, Claude-based workflows)
+- React micro frontend platforms (Module Federation, shared UI libraries, the whole thing)
+- Spring Boot services, Kafka pipelines, gRPC APIs -- usually in the same week
 
-- **Co-founded** and maintain an inner-source **UI library** adopted by dozens of teams → reduced dev time and enforced consistent UX/accessibility standards.
-- **Led** frontend architecture for an internal **microservices + microfrontend system (Spring Boot / React)** → enabled new 100% digital workflow for thousands of users with maintainable, testable code as the standard.
-- **Championed** clean code and test-driven practices through content creation and **town hall tech talks** → raised quality standards and drove adoption of the UI library across the org.
+---
 
-### ✍️ Read My Writing
+**Stack**
 
-- [Blog](https://carlcidromero.github.io)
-- [LinkedIn](https://linkedin.com/in/carlcidromero)
-- [Bluesky](https://bsky.app/profile/carlcidromero.bsky.social)
+React · TypeScript · Module Federation · Spring Boot · Kafka · gRPC · Java · Kotlin · AWS · Docker · Jest · RTL · JUnit
 
-⚡ _"Accessible, user-first software that teams can maintain at scale."_
+---
+
+**Currently**
+
+Building tools that make engineers faster. Thinking about delivery systems. Occasionally mentoring people who are earlier in the career arc I took the long way around.
+
+→ [cidromero.com](https://cidromero.com)
